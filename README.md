@@ -4,11 +4,11 @@
 
 I was tasked to refactor a marketing webpage for the company Horiseon. I improved the code in the following ways:
 
- - Updated non-semantic HTML elements with easy to understand samantic elements. 
- - Ensured the HTML elements follow and easy to understand and logical structure.
- - Added alt text for all images to improve SEO and the accessibiity user experience.
+ - Updated non-semantic HTML elements with easy to understand semantic elements. 
+ - Ensured the HTML elements follow an easy to understand and logical structure.
+ - Added alt text for all images to improve SEO and the accessibility user experience.
  - Ensured that all header elements fall in sequential order.
- - Added a descriptive page title to iporve SEO and user experience.
+ - Added a descriptive page title to improve SEO and user experience.
 
 ## Usage
 
