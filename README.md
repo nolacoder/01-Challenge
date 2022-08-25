@@ -9,6 +9,7 @@ I was tasked to refactor a marketing webpage for the company Horiseon. I improve
  - Added alt text for all images to improve SEO and the accessibility user experience.
  - Ensured that all header elements fall in sequential order.
  - Added a descriptive page title to improve SEO and user experience.
+ - Consolidated the CSS selectors while removing unneccesary class attributes from HTML elements.
 
 ## Usage
 
