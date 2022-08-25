@@ -20,4 +20,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![alt text](assets/images/screenshot.png)
     ```
 
+```md   ![Horiseon Refactor Homepage 1](assets/images/Horiseon Refactor 1.png)    ```
+
+```md   ![Horiseon Refactor Homepage 1](assets/images/Horiseon Refactor 2.png)    ```
+
 This implementation can be viewed be following this link: https://nolacoder.github.io/01-Module-Challenge/
