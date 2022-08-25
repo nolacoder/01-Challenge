@@ -1,4 +1,4 @@
-# <Horiseon Website Refactor>
+# Horiseon Website Refactor
 
 ## Description
 
