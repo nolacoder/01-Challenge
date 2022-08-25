@@ -12,16 +12,12 @@ I was tasked to refactor a marketing webpage for the company Horiseon. I improve
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This implementation can be viewed be following this link: https://nolacoder.github.io/01-Module-Challenge/
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+To view the html code, right cick anywhere on the screen and choose the Inspect Element option in a browser with developer tools. From there you can view the structure of the html including the semantic elements. To view the alt text, inspect the image elements and observe the 'alt=' attribute in the dev tools. The updated page title can be viewed by oberving the page or tab title when the webpage is open. 
 
 ![Horiseon Refactor Homepage 1](./assets/images/Horiseon-Refactor-1.png)  
 
 ![Horiseon Refactor Homepage 1](./assets/images/Horiseon-Refactor-2.png)
 
-This implementation can be viewed be following this link: https://nolacoder.github.io/01-Module-Challenge/
+
