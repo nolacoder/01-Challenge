@@ -18,6 +18,6 @@ To view the html code, right cick anywhere on the screen and choose the Inspect 
 
 ![Horiseon Refactor Homepage 1](./assets/images/Horiseon-Refactor-1.png)  
 
-![Horiseon Refactor Homepage 1](./assets/images/Horiseon-Refactor-2.png)
+![Horiseon Refactor Homepage 2](./assets/images/Horiseon-Refactor-2.png)
 
 
