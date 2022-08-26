@@ -17,7 +17,7 @@ This implementation can be viewed by following this link: https://nolacoder.gith
 
 To view the html code, right cick anywhere on the screen and choose the Inspect option in a browser with developer tools. From there you can view the structure of the html including the semantic elements. 
 
-To view the alt text, inspect the image elements and observe their 'alt=' attributes in the dev tools. The section class "hero" element includes an aria-label attribute that serves the sae purpose as alt text for the background image. 
+To view the alt text, inspect the image elements and observe their 'alt=' attributes in the dev tools. The section class "hero" element includes an aria-label attribute that serves the same purpose as alt text for the background image. 
 
 The updated page title can be viewed by oberving the page or tab title when the webpage is open. 
 
